@@ -4,7 +4,7 @@
 
 專案名稱：Antigravity Setup Guide
 專案用途：記錄與設定 Anti-Gravity、NotebookLM、Firebase、GitHub、Obsidian 的服務連接與整合流程
-主要工作目錄：d:/Antigravity
+主要工作目錄：d:/Antigravity workspace/Antigravity
 GitHub repo：https://github.com/patrickwang77/antigravity-setup-guide.git
 預設 branch：main
 
