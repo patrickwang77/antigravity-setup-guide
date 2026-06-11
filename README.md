@@ -1,23 +1,14 @@
-# PDF Extractor - Packing List & Commercial Invoice 對照工具
+# Antigravity Setup Guide (Anti-Gravity 服務連接與工作流程設定)
 
-這是一個基於 HTML 與 JavaScript 的前端工具，用於將 Packing List 與 Commercial Invoice (EI) PDF 檔案進行單價對照，並提供資料預覽、單筆刪除，以及匯出為 Excel (`.xlsx`) 或 CSV 格式的功能。
+本倉庫用於管理與記錄 Anti-Gravity 的服務連接指引，包含 NotebookLM、Firebase、GitHub 以及 Obsidian 的一鍵整合與專屬工具配置。
 
-## 功能特點
+## 目錄指南
 
-1. **拖曳上傳與自動分類**：拖入 Packing List 或 Invoice 檔案後，程式會根據檔名自動分類。
-2. **PDF 文字自動解析**：使用 `pdf.js` 技術在前端直接讀取與解析 PDF 中的文字。
-3. **智慧單價對照**：分析 Packing List 中的料號與數量，對應 EI 檔案中的單價，並將欄位格式化。
-4. **預覽與管理**：提供即時資料預覽表格與單筆刪除功能。
-5. **多格式匯出**：支持匯出為 Excel (`.xlsx`) 與帶有 UTF-8 BOM 的 CSV 檔案。
+1. **[09-AntiGravity專屬懶人包.md](file:///d:/Antigravity/09-AntiGravity專屬懶人包.md)**: 服務連接與工作流程（開工、收工、初始化）的完整操作指引。
+2. **[Antigravity_Setup_Guide.md](file:///d:/Antigravity/Antigravity_Setup_Guide.md)**: 進階環境建置與說明。
+3. **[Multi_Agent_Collaboration_Guide.md](file:///d:/Antigravity/Multi_Agent_Collaboration_Guide.md)**: 多代理（Multi-Agent）協作指引。
 
-## 使用技術
+## 本地開發與運作流程
 
-- HTML5 / Vanilla CSS
-- Vanilla JavaScript
-- [PDF.js](https://mozilla.github.io/pdf.js/) (解析 PDF 文字)
-- [SheetJS](https://sheetjs.com/) (匯出 Excel/CSV)
-- [Lucide Icons](https://lucide.dev/) (圖示)
-
-## 本地開發與運行
-
-直接在瀏覽器中開啟 `index.html`，或者使用本機 HTTP 伺服器運行本專案。
+- **開工流程**：載入本機設定，閱讀最新對應筆記，確認 Git 狀態。
+- **收工流程**：確認無敏感資訊（API key/Tokens），更新筆記，確認 Git Diff 後僅提交變更檔案。

@@ -1,11 +1,11 @@
-# PDF Extractor - ANTIGRAVITY.md
+# Antigravity Setup Guide - ANTIGRAVITY.md
 
 ## 專案入口
 
-專案名稱：PDF Extractor (Packing List & Commercial Invoice 對照工具)
-專案用途：將 Packing List 與 Commercial Invoice (EI) PDF 檔案進行單價對照，並匯出為 CSV 或 XLSX 格式
+專案名稱：Antigravity Setup Guide
+專案用途：記錄與設定 Anti-Gravity、NotebookLM、Firebase、GitHub、Obsidian 的服務連接與整合流程
 主要工作目錄：d:/Antigravity
-GitHub repo：待建立
+GitHub repo：https://github.com/patrickwang77/antigravity-setup-guide.git
 預設 branch：main
 
 ## Obsidian 對應筆記
