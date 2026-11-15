@@ -7,6 +7,7 @@
 1. **[09-AntiGravity專屬懶人包.md](file:///d:/Antigravity workspace/Antigravity/09-AntiGravity專屬懶人包.md)**: 服務連接與工作流程（開工、收工、初始化）的完整操作指引。
 2. **[Antigravity_Setup_Guide.md](file:///d:/Antigravity workspace/Antigravity/Antigravity_Setup_Guide.md)**: 進階環境建置與說明。
 3. **[Multi_Agent_Collaboration_Guide.md](file:///d:/Antigravity workspace/Antigravity/Multi_Agent_Collaboration_Guide.md)**: 多代理（Multi-Agent）協作指引。
+4. **[Antigravity_Setup_Guide_macOS.md](./Antigravity_Setup_Guide_macOS.md)**: macOS 版完整初始設定、MCP 配置與全域工作流懶人包。
 
 ## 本地開發與運作流程
 
